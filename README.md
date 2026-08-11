@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Kaiky Brito</h1>
 
 <p align="center">
-  💻 Software Engineering Student <br>
+  💻 Systems Analysis and Development Student <br>
   🚀 Future Back-end Developer <br>
   🇧🇷 Brazil
 </p>
@@ -21,10 +21,9 @@
 
 ## 🎯 Current Goals
 
-- Complete my Software Engineering degree
+- Complete my Systems Analysis and Development degree
 - Improve Java skills
 - Build personal projects
-- Learn Spring Boot
 - Become a Back-end Developer
 
 ## 🛠 Tech Stack
@@ -36,16 +35,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-## 📈 GitHub Stats
+## 🎮 Developer Status
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KaikyBrito1&show_icons=true&theme=tokyonight"/>
-</p>
+```diff
++ Java Skill: Level 27
++ PostgreSQL Skill: Level 28
++ Problem Solving: Level 34
++ Motivation: 100%
+- Bugs: Too many
+```
 
 ## 📫 Contact
 
-- Email: your-email@gmail.com
-- LinkedIn: your-linkedin
+- Email: okaiiky2019@gmail.com
+- Instagram: brito.kaiky_
 
 ---
 
