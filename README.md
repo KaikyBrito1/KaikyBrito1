@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello, I'm Kaiky Brito
 
-<!--
-**KaikyBrito1/KaikyBrito1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Systems Analysis and Development Student.
 
-Here are some ideas to get you started:
+I'm passionate about technology, programming, and solving problems through software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focused on improving my skills in Java, C, Databases, and Software Engineering while building projects that help me grow as a developer.
+
+## 🚀 Technologies
+
+- Java
+- C
+- Git & GitHub
+- SQL
+
+## 📚 Currently Learning
+
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Database Systems
+- Software Engineering
+- Web Development
+
+## 🎯 Goals
+
+- Become a Back-end Developer
+- Build real-world projects
+- Contribute to Open Source
+- Continuously improve my problem-solving skills
+
+## 📫 Contact
+
+- Instagram: brito.kaiky_
+- Email: okaiiky2019@gmail.com
+
+⭐ Thanks for visiting my profile!
