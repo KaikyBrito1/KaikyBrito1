@@ -12,7 +12,7 @@
 
 ```text
 🟢 Learning Java
-🟢 Learning PostgreSQL
+🟢 Learning SQL
 🟢 Studying Software Engineering
 🟢 Practicing Data Structures
 🔴 Looking for sleep
