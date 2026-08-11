@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 Current Learning
+## 📊 Currently Learning
 
 ```text
 🟢 Learning Java
