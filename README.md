@@ -15,7 +15,6 @@
 🟢 Learning PostgreSQL
 🟢 Studying Software Engineering
 🟢 Practicing Data Structures
-🟡 Learning JavaScript
 🔴 Looking for sleep
 ```
 
