@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 Status
+## 📊 Current Journey
 
 ```text
 🟢 Learning Java
